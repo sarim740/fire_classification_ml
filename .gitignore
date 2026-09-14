@@ -1,0 +1,24 @@
+# Virtual Environment
+venv/
+env/
+ENV/
+.env
+
+# Dataset and image directories
+fire_images/
+non_fire_images/
+test_images/
+uploads/
+
+# Python bytecode & cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyc
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Operating System Files
+.DS_Store
+Thumbs.db
